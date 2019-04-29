@@ -9,7 +9,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string><![CDATA[http://www.kandianapp.com/down/kandian.ipa]]></string>
+          <string><![CDATA[http://www.kandianapp.com/static/kandian.ipa]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -17,7 +17,7 @@
           <key>needs-shine</key>
           <integer>0</integer>
           <key>url</key>
-          <string><![CDATA[http://www.kandianapp.com/down/logo.png]]></string>
+          <string><![CDATA[http://www.kandianapp.com/static/logo.png]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -25,7 +25,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string><![CDATA[http://www.kandianapp.com/down/logo.png]]></string>
+          <string><![CDATA[http://www.kandianapp.com/static/logo.png]]></string>
         </dict>
       </array>
       <key>metadata</key>
